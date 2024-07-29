@@ -11,7 +11,7 @@ This repository contains the design and implementation plan for a comprehensive 
 ## How to Use
 1. Clone the repository.
 2. Open the `network_design.pkt` file using Cisco Packet Tracer.
-3. Refer to the `README.md` file & document file for detailed information on the assignment and tasks.
+3. Refer to the `README.md` file & `Document` file for detailed information on the assignment and tasks.
 
 ## Key Components
 
